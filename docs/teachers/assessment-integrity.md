@@ -10,7 +10,7 @@ When you create or edit an assignment, you can adjust the **Assessment integrity
 
 ## Copy and paste
 
-- **Off (default for many setups):** Students cannot paste into text chat or static text answers.
+- **Off (default):** Students cannot paste into text chat or static text answers.
 - **On:** Students can paste as usual.
 
 ## Leaving the browser tab
